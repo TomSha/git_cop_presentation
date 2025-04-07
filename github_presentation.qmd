@@ -96,6 +96,10 @@ Once pushed remotely the snapshots can be easily viewed on GitHub
 
 ![merging branches](img/github_branches_5.png)
 
+## How can Git and GitHub help with Collaboration?
+
+![merging branches](img/github_branches_6.png)
+
 
 ## How can GitHub help with Transparency?
 
