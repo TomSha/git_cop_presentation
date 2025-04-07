@@ -20,7 +20,7 @@ Key characteristics :
 
 :::{.incremental}
 1. Clear code and documentation
-2. Transparent workflows
+2. Version control
 3. Shareable
 :::
 
@@ -61,7 +61,7 @@ Once pushed remotely using...
 
 ...all snapshots can be easily viewed on GitHub
 
-(see this repo for example)
+(see this [repo](https://github.com/TomSha/git_cop_presentation) for example)
 
 
 
