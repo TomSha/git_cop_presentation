@@ -10,6 +10,13 @@ format:
         smaller: true
 ---
 
+## Other Resources
+
+- Scripting onboarding
+- [intro to git repo](https://github.com/ncl-icb-analytics/intro_to_git)
+- [git documentation](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+
+
 ## Reproducible Analytical Pipelines
 
 Definition : A pipeline that allows others to repeat the analysis with the same data, code, and environment
@@ -47,21 +54,17 @@ Why it's important :
 
 . . .
 
-This command:
 
-`git commit -m "You commit message"`
 
-creates a snapshot of your code.
+Commiting creates a snapshot of your code.
 
 . . .
 
-Once pushed remotely using...
-
-`git push`
-
-...all snapshots can be easily viewed on GitHub
+Once pushed remotely the snapshots can be easily viewed on GitHub
 
 (see this [repo](https://github.com/TomSha/git_cop_presentation) for example)
+
+## How can Git and GitHub help with Collaboration?
 
 
 
