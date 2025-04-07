@@ -15,6 +15,7 @@ format:
 - Scripting onboarding
 - [intro to git repo](https://github.com/ncl-icb-analytics/intro_to_git)
 - [git documentation](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- [GitHub documentation](https://docs.github.com/en/get-started)
 
 
 ## Reproducible Analytical Pipelines
