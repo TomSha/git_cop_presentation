@@ -1,0 +1,93 @@
+---
+title: 'Transparency, Version Control, and Collaboration using Git'
+author: 'Thomas Shallcross'
+execute: 
+  echo: false
+  daemon: true
+format: 
+    revealjs:
+        embed-resources: true
+        smaller: true
+---
+
+## Reproducible Analytical Pipelines
+
+Definition : A pipeline that allows others to repeat the analysis with the same data, code, and environment
+
+. . .
+
+Key characteristics :
+
+:::{.incremental}
+1. Clear code and documentation
+2. Transparent workflows
+3. Shareable
+:::
+
+. . .
+
+Why it's important :
+
+:::{.incremental}
+1. Validates results
+2. Reduces errors
+3. Promotes trust in findings
+:::
+
+
+<!-- The Government's Digital Service Standard 12th principle states that all publicly funded code should be open, reusable and available under appropriate licences. To achieve this transparency, we can save our code to public-facing repositories like GitHub. -->
+
+## Git(hub) overview
+
+## How can Github help with...
+
+## How can Github help with Version Control?
+
+
+## How can Github help with Transparency?
+
+. . .
+
+Definition of Transparency: Making all steps in the analysis process clear and accessible to others.
+
+. . .
+
+How Transparency Is Achieved:
+
+. . .
+
+Clear and accessible documentation of data, methods, and results.
+
+## How can Github help with Transparency?
+
+How GitHub Supports Transparency:
+
+:::{.incremental}
+
+- Storing code, documentation, (and data) in public or private repositories.
+
+- Using README files, comments, and wiki pages to document processes.
+
+- Pull requests and code reviews to ensure clarity and transparency in team collaborations.
+
+:::
+
+. . .
+
+[Sktime](https://github.com/sktime/sktime)
+
+[Motor Control Lab](https://github.com/AdaptiveMotorControlLab)
+
+[Paper](https://github.com/TomSha/zebrafish_tectum_paper)
+
+
+
+
+
+
+
+
+
+
+
+
