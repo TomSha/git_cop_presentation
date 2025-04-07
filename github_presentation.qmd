@@ -16,6 +16,7 @@ format:
 - [intro to git repo](https://github.com/ncl-icb-analytics/intro_to_git)
 - [git documentation](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - [GitHub documentation](https://docs.github.com/en/get-started)
+- [VSCode and git](https://code.visualstudio.com/docs/sourcecontrol/overview)
 
 
 ## Reproducible Analytical Pipelines
@@ -27,9 +28,9 @@ Definition : A pipeline that allows others to repeat the analysis with the same 
 Key characteristics :
 
 :::{.incremental}
-1. Clear code and documentation
+1. Clear code and documentation (transparency)
 2. Version control
-3. Shareable
+3. Shareable/Collaborative
 :::
 
 . . .
@@ -47,7 +48,13 @@ Why it's important :
 
 ## Git and GitHub overview
 
-![overview](img/github_workflow.png)
+. . .
+
+![overview of working with git](img/github_workflow.png)
+
+. . .
+
+
 
 ## How can Git and GitHub help with...
 
@@ -57,7 +64,7 @@ Why it's important :
 
 
 
-Commiting creates a snapshot of your code.
+Committing creates a snapshot of your code (via .git repository)
 
 . . .
 
@@ -66,6 +73,14 @@ Once pushed remotely the snapshots can be easily viewed on GitHub
 (see this [repo](https://github.com/TomSha/git_cop_presentation) for example)
 
 ## How can Git and GitHub help with Collaboration?
+
+
+![working with one branch](img/github_one_branch.png)
+
+## How can Git and GitHub help with Collaboration?
+
+
+![working with two branches](img/github_two_branches.png)
 
 
 
