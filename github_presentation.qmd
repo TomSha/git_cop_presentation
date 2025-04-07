@@ -1,5 +1,5 @@
 ---
-title: 'Transparency, Version Control, and Collaboration using Git'
+title: 'Reproducible Analytical Pipelines and Git'
 author: 'Thomas Shallcross'
 execute: 
   echo: false
@@ -37,14 +37,25 @@ Why it's important :
 
 <!-- The Government's Digital Service Standard 12th principle states that all publicly funded code should be open, reusable and available under appropriate licences. To achieve this transparency, we can save our code to public-facing repositories like GitHub. -->
 
-## Git(hub) overview
+## Git and GitHub overview
 
-## How can Github help with...
+![overview](img/github_workflow.png)
 
-## How can Github help with Version Control?
+## How can Git(Hub) help with...
+
+## How can Git(Hub) help with Version Control?
+
+. . .
+
+This command:
+
+`git commit -m "You commit message"`
+
+creates a snapshot of your code
 
 
-## How can Github help with Transparency?
+
+## How can Git(Hub) help with Transparency?
 
 . . .
 
