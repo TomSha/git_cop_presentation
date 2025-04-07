@@ -41,9 +41,9 @@ Why it's important :
 
 ![overview](img/github_workflow.png)
 
-## How can Git(Hub) help with...
+## How can Git and GitHub help with...
 
-## How can Git(Hub) help with Version Control?
+## How can Git and GitHub help with Version Control?
 
 . . .
 
@@ -51,7 +51,17 @@ This command:
 
 `git commit -m "You commit message"`
 
-creates a snapshot of your code
+creates a snapshot of your code.
+
+. . .
+
+Once pushed remotely using...
+
+`git push`
+
+...all snapshots can be easily viewed on GitHub
+
+(see this repo for example)
 
 
 
