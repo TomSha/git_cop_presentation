@@ -68,20 +68,33 @@ Committing creates a snapshot of your code (via .git repository)
 
 . . .
 
+![](img/github_branches_1.png)
+
 Once pushed remotely the snapshots can be easily viewed on GitHub
 
 (see this [repo](https://github.com/TomSha/git_cop_presentation) for example)
 
 ## How can Git and GitHub help with Collaboration?
 
+. . .
 
-![working with one branch](img/github_one_branch.png)
+![working with one branch](img/github_branches_1.png)
 
 ## How can Git and GitHub help with Collaboration?
 
+![working with two branches](img/github_branches_2.png)
 
-![working with two branches](img/github_two_branches.png)
+## How can Git and GitHub help with Collaboration?
 
+![working with two branches](img/github_branches_3.png)
+
+## How can Git and GitHub help with Collaboration?
+
+![merging branches](img/github_branches_4.png)
+
+## How can Git and GitHub help with Collaboration?
+
+![merging branches](img/github_branches_5.png)
 
 
 ## How can GitHub help with Transparency?
