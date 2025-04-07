@@ -65,7 +65,7 @@ Once pushed remotely using...
 
 
 
-## How can Git(Hub) help with Transparency?
+## How can GitHub help with Transparency?
 
 . . .
 
@@ -93,7 +93,8 @@ How GitHub Supports Transparency:
 
 :::
 
-. . .
+
+## Some example github accounts/repos
 
 [Sktime](https://github.com/sktime/sktime)
 
