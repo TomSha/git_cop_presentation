@@ -17,6 +17,7 @@ format:
 - [git documentation](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - [GitHub documentation](https://docs.github.com/en/get-started)
 - [VSCode and git](https://code.visualstudio.com/docs/sourcecontrol/overview)
+- [RStudio and GitHub](https://resources.github.com/github-and-rstudio/)
 
 
 ## Reproducible Analytical Pipelines
@@ -70,6 +71,8 @@ Committing creates a snapshot of your code (via .git repository)
 
 ![](img/github_branches_1.png)
 
+. . .
+
 Once pushed remotely the snapshots can be easily viewed on GitHub
 
 (see this [repo](https://github.com/TomSha/git_cop_presentation) for example)
@@ -100,6 +103,21 @@ Once pushed remotely the snapshots can be easily viewed on GitHub
 
 ![merging branches](img/github_branches_6.png)
 
+## How can Git and GitHub help with Collaboration?
+
+. . .
+
+- Pull Requests: a formal process to allow developers to propose changes to a repository
+
+## Why Pull requests?
+
+:::{.incremental}
+1. Allows developers to contribute to codebase they don't have permission to push to
+2. Peer review/feedback
+3. Keeps source code healthy
+:::
+
+
 
 ## How can GitHub help with Transparency?
 
@@ -115,7 +133,7 @@ How Transparency Is Achieved:
 
 Clear and accessible documentation of data, methods, and results.
 
-## How can Github help with Transparency?
+## How can GitHub help with Transparency?
 
 How GitHub Supports Transparency:
 
@@ -130,13 +148,14 @@ How GitHub Supports Transparency:
 :::
 
 
-## Some example github accounts/repos
+## Some example GitHub accounts/repos
 
 [Sktime](https://github.com/sktime/sktime)
 
+[pymc](https://github.com/pymc-devs/pymc)
+
 [Motor Control Lab](https://github.com/AdaptiveMotorControlLab)
 
-[Paper](https://github.com/TomSha/zebrafish_tectum_paper)
 
 
 
