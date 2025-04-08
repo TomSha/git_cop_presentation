@@ -156,6 +156,10 @@ How GitHub Supports Transparency:
 
 [Deep Lab Cut](https://github.com/DeepLabCut/DeepLabCut)
 
+## Workshop
+
+- follow video to create a new branch, commit changes to new branch, and merge into the main branch using a pull request
+
 
 
 
