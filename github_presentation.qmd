@@ -148,13 +148,13 @@ How GitHub Supports Transparency:
 :::
 
 
-## Some example GitHub accounts/repos
+## Some example GitHub repos
 
 [Sktime](https://github.com/sktime/sktime)
 
 [pymc](https://github.com/pymc-devs/pymc)
 
-[Motor Control Lab](https://github.com/AdaptiveMotorControlLab)
+[Deep Lab Cut](https://github.com/DeepLabCut/DeepLabCut)
 
 
 
