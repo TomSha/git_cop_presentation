@@ -150,11 +150,14 @@ How GitHub Supports Transparency:
 
 ## Some example GitHub repos
 
-[Sktime](https://github.com/sktime/sktime)
+- [Sktime](https://github.com/sktime/sktime)
 
-[pymc](https://github.com/pymc-devs/pymc)
+- [pymc](https://github.com/pymc-devs/pymc)
 
-[Deep Lab Cut](https://github.com/DeepLabCut/DeepLabCut)
+- [Deep Lab Cut](https://github.com/DeepLabCut/DeepLabCut)
+
+- [UCLA Cancer Research](https://github.com/uclahs-cds)
+
 
 ## Workshop
 
